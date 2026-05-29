@@ -35,10 +35,12 @@ Heute
 
 ## 29.5.
 
-- [ ] Start-Seite 1
-- [ ] Start-Seite 2
-- [ ] Start-Seite 3
-- [ ] Start-Seite 4
+- [x] Ich habe die Sticker für mein Journal angepasst und ungefähr zehn passende Sticker ausgewählt.
+- [x] Ich habe begonnen, eine CV-Seite und eine Kontaktseite zu erstellen, damit beide später auch über die Home-Seite erreichbar sind.
+- [x] Ich habe Ideen aus dem Internet gesammelt und überlegt, wie ich sie passend in meinen eigenen Code einbauen kann.
+- [x] Ich habe geplant, den Footer zu überarbeiten. Dort sollen ein Copyright-Hinweis und Icons eingefügt werden, über die man direkt zu den jeweiligen Seiten gelangt.
+
+Heute habe ich vor allem an meiner Portfolio-Webseite gearbeitet. Ich habe mich mit der Struktur meines Codes beschäftigt, die Bilder und Assets angeschaut und überlegt, wo ich neue Inhalte wie Text, Profilbilder, Sticker, CV, Kontaktseite und Footer-Elemente einfügen muss.
 
 ☝️ Vergessen Sie nicht, die angepasste Version Ihrer Start-Seite in der entsprechenden Ablage hochzuladen.
 
