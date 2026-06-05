@@ -42,13 +42,14 @@ Heute
 
 Heute habe ich vor allem an meiner Portfolio-Webseite gearbeitet. Ich habe mich mit der Struktur meines Codes beschäftigt, die Bilder und Assets angeschaut und überlegt, wo ich neue Inhalte wie Text, Profilbilder, Sticker, CV, Kontaktseite und Footer-Elemente einfügen muss.
 
-☝️ Vergessen Sie nicht, die angepasste Version Ihrer Start-Seite in der entsprechenden Ablage hochzuladen.
 
 ## 5.6.
 
-- [ ] LinkedIn-Profil erstellen / ausputzen
-- [ ] GitHub-Profil professionalisieren (`readme.md`)
-- [ ] Start-Seite abschliessen
-- [ ] Rückmeldung geben
+- [x] LinkedIn-Profil erstellen / ausputzen
+- [x] GitHub-Profil professionalisieren (`readme.md`)
+- [x] Start-Seite abschliessen
+- [x] Rückmeldung geben
 
-☝️ Vergessen Sie nicht, die fertige Version Ihrer Start-Seite in der entsprechenden Ablage hochzuladen.
+Heute habe ich an meinen Bewerbungen gearbeitet. Ich habe ein neues Bewerbungsschreiben geschrieben, dass es besser zu den neuen Firmen passt. Danach habe ich zwei Bewerbungen von anderen Personen bewertet und aufgeschrieben, was gut und was weniger gut war. Am Schluss habe ich noch E Mails geschrieben, in denen ich die Bewerber zu einem Vorstellungsgespräch eingeladen habe.
+
+Ich habe eine Rückmeldung zu meiner eigenen Bewerbung bekommen. Positiv war, dass ich auf die Stellenausschreibung eingegangen bin und erklärt habe, warum mich das Unternehmen interessiert. Gut war auch, dass ich eigene Projekte wie das Memory Game und das Spiel mit Godot erwähnt habe. Verbessern könnte ich noch, dass ich meine Projekte ausführlicher beschreibe, meine technischen Kenntnisse genauer erkläre und meine Motivation für die Firma persönlicher formuliere. Insgesamt war die Rückmeldung aber gut, und meine Bewerbung wurde angenommen.
