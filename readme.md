@@ -53,3 +53,22 @@ Heute habe ich vor allem an meiner Portfolio-Webseite gearbeitet. Ich habe mich 
 Heute habe ich an meinen Bewerbungen gearbeitet. Ich habe ein neues Bewerbungsschreiben geschrieben, dass es besser zu den neuen Firmen passt. Danach habe ich zwei Bewerbungen von anderen Personen bewertet und aufgeschrieben, was gut und was weniger gut war. Am Schluss habe ich noch E Mails geschrieben, in denen ich die Bewerber zu einem Vorstellungsgespräch eingeladen habe.
 
 Ich habe eine Rückmeldung zu meiner eigenen Bewerbung bekommen. Positiv war, dass ich auf die Stellenausschreibung eingegangen bin und erklärt habe, warum mich das Unternehmen interessiert. Gut war auch, dass ich eigene Projekte wie das Memory Game und das Spiel mit Godot erwähnt habe. Verbessern könnte ich noch, dass ich meine Projekte ausführlicher beschreibe, meine technischen Kenntnisse genauer erkläre und meine Motivation für die Firma persönlicher formuliere. Insgesamt war die Rückmeldung aber gut, und meine Bewerbung wurde angenommen.
+
+
+## 19.6.
+
+**19.06.2026**
+
+- [x] Portfolio Webseite überarbeiten**
+Heute haben wir an meiner Portfolio Webseite gearbeitet. Wir haben unnötige Bereiche wie Experience und Certifications entfernt, weil diese momentan nicht zu meinem Profil passen.
+
+- [x] Startseite anpassen**
+Wir haben die Startseite verbessert. Dazu gehörten das Korrigieren meines Namens, das Einfügen meines Profilbildes, das Zentrieren des Journals und das Aktivieren der Sticker.
+
+- [x] Skills bearbeiten**
+Wir haben den Skills Bereich angepasst. Dabei haben wir Technologien entfernt, die ich nicht wirklich benutzt habe, und passende Skills wie React, MongoDB, Docker, AWS, Godot und Rider ergänzt.
+
+- [x] Webseite testen und letzte Fehler korrigieren
+Am Schluss haben wir die Webseite nochmals getestet. Dabei haben wir kontrolliert, ob die Startseite richtig angezeigt wird, ob die Skills passen und ob die Bilder korrekt geladen werden. Danach haben wir kleinere Fehler verbessert, damit die Webseite sauber funktioniert.
+
+Heute habe ich verschiedene Bereiche meiner Portfolio Webseite überarbeitet. Ich habe die Skills angepasst und nur noch Technologien aufgeführt, mit denen ich bereits gearbeitet habe. Ausserdem habe ich neue Icons wie Godot und Rider hinzugefügt und fehlerhafte Darstellungen korrigiert. Zusätzlich habe ich die Social Links überprüft und angepasst sowie meinen Namen und andere persönliche Informationen auf der Webseite korrigiert. Durch die vielen Änderungen konnte ich die Webseite besser auf mich abstimmen und habe gleichzeitig mehr darüber gelernt, wie die einzelnen Dateien und Komponenten einer Webseite zusammenarbeiten.
