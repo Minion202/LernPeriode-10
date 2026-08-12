@@ -1,8 +1,5 @@
-<img width="1308" height="1886" alt="image" src="https://github.com/user-attachments/assets/a031beda-8cb9-485c-82f6-ac513ddb368a" />
-
-
-
-# Lern-Periode 10
+# Lern Periode 10
+## Website about me 
 
 22.5. bis 26.6.
 
@@ -35,10 +32,10 @@ Heute
 
 ## 29.5.
 
-- [x] Ich habe die Sticker für mein Journal angepasst und ungefähr zehn passende Sticker ausgewählt.
+- [x] Ich habe die Sticker für mein About Me angepasst. 
 - [x] Ich habe begonnen, eine CV-Seite und eine Kontaktseite zu erstellen, damit beide später auch über die Home-Seite erreichbar sind.
-- [x] Ich habe Ideen aus dem Internet gesammelt und überlegt, wie ich sie passend in meinen eigenen Code einbauen kann.
-- [x] Ich habe geplant, den Footer zu überarbeiten. Dort sollen ein Copyright-Hinweis und Icons eingefügt werden, über die man direkt zu den jeweiligen Seiten gelangt.
+- [x] Ich habe Ideen aus dem Internet gesammelt und überlegt, wie ich sie passend in meinen eigenen Code einbauen kann. (Interactive Terminal)
+- [x] Ich habe geplant, welche Projekte ich genau auf meinem Portofolio haben möchte.
 
 Heute habe ich vor allem an meiner Portfolio-Webseite gearbeitet. Ich habe mich mit der Struktur meines Codes beschäftigt, die Bilder und Assets angeschaut und überlegt, wo ich neue Inhalte wie Text, Profilbilder, Sticker, CV, Kontaktseite und Footer-Elemente einfügen muss.
 
@@ -57,13 +54,11 @@ Ich habe eine Rückmeldung zu meiner eigenen Bewerbung bekommen. Positiv war, da
 
 ## 19.6.
 
-**19.06.2026**
-
 - [x] Portfolio Webseite überarbeiten**
-Heute haben wir an meiner Portfolio Webseite gearbeitet. Wir haben unnötige Bereiche wie Experience und Certifications entfernt, weil diese momentan nicht zu meinem Profil passen.
+Heute habe ich  an meiner Portfolio Webseite gearbeitet. Wir haben unnötige Bereiche wie Experience und Certifications entfernt, weil diese momentan nicht zu meinem Profil passen.
 
 - [x] Startseite anpassen**
-Wir haben die Startseite verbessert. Dazu gehörten das Korrigieren meines Namens, das Einfügen meines Profilbildes, das Zentrieren des Journals und das Aktivieren der Sticker.
+Wir haben die Startseite verbessert. Dazu gehörten das Korrigieren meines Namens, das Einfügen meines Profilbildes.
 
 - [x] Skills bearbeiten**
 Wir haben den Skills Bereich angepasst. Dabei haben wir Technologien entfernt, die ich nicht wirklich benutzt habe, und passende Skills wie React, MongoDB, Docker, AWS, Godot und Rider ergänzt.
